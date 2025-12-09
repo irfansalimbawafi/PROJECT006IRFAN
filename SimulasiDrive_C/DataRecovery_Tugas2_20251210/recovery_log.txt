@@ -1,0 +1,34 @@
+----------------------------- 
+Verifikasi ukuran file: 
+dokumen_1.pdf - 8 bytes 
+dokumen_10.pdf - 9 bytes 
+dokumen_2.pdf - 8 bytes 
+dokumen_3.pdf - 8 bytes 
+dokumen_4.pdf - 8 bytes 
+dokumen_5.pdf - 8 bytes 
+dokumen_6.pdf - 8 bytes 
+dokumen_7.pdf - 8 bytes 
+dokumen_8.pdf - 8 bytes 
+dokumen_9.pdf - 8 bytes 
+dokumen_1.docx - 12 bytes 
+dokumen_10.docx - 13 bytes 
+dokumen_2.docx - 12 bytes 
+dokumen_3.docx - 12 bytes 
+dokumen_4.docx - 12 bytes 
+dokumen_5.docx - 12 bytes 
+dokumen_6.docx - 12 bytes 
+dokumen_7.docx - 12 bytes 
+dokumen_8.docx - 12 bytes 
+dokumen_9.docx - 12 bytes 
+report_1.docx - 11 bytes 
+report_10.docx - 12 bytes 
+report_2.docx - 11 bytes 
+report_3.docx - 11 bytes 
+report_4.docx - 11 bytes 
+report_5.docx - 11 bytes 
+report_6.docx - 11 bytes 
+report_7.docx - 11 bytes 
+report_8.docx - 11 bytes 
+report_9.docx - 11 bytes 
+----------------------------- 
+Total file disalin: 50 
